@@ -1,4 +1,5 @@
--- NTerminal.scpt
+#!/usr/bin/osascript
+-- NTerminal.applescript
    
 tell application "Terminal"
    

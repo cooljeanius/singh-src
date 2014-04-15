@@ -1,4 +1,5 @@
--- osversion.scpt
+#!/usr/bin/osascript
+-- osversion.applescript
 tell application "Finder"
     -- get "raw" version
     set the version_data to system attribute "sysv"

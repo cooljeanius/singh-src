@@ -1,4 +1,5 @@
--- osversion.scpt
+#!/usr/bin/osascript
+-- osversion.applescript
 tell application "Finder"
     set system_version to (get the version)
     say "[[emph +]]Cool. This is Mac OS Ten" & system_version
